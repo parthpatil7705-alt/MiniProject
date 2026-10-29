@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621650023286",
+    "project_id": "room-buddy-app",
+    "storage_bucket": "room-buddy-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621650023286:android:8db3c7d329a33cbc6ae057",
+        "android_client_info": {
+          "package_name": "com.roombuddy.room_buddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU9p-uK_BMc42T1M52P2MnNrnBVUVYDgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
